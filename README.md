@@ -26,7 +26,7 @@ Step into a retro-futuristic hyperspace tunnel crafted using **Three.js** and **
    ```
 2. Navigate to the project directory:
    ```bash
-   cd hyperspace-tunnel
+   cd live_wormhole
    ```
 3. Open `index.html` in your browser, or run a local server:
    ```bash
@@ -43,14 +43,6 @@ I'm planning to push this further by adding:
 ## 🤝 Contributing
 Have an idea to make this even more futuristic? Feel free to fork the repo, submit pull requests, or drop suggestions!
 
-## 📞 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Repository Link]
-
-## ⭐ Show Your Support
-If you enjoyed this project, consider giving it a ⭐ on GitHub — every bit of support helps fuel more creative adventures!
-
----
 
 *Crafted with passion for creative coding and futuristic design.*
 
